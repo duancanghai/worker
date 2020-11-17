@@ -1,4 +1,7 @@
 # -*- coding: utf-8 -*-
+
+# worker init
+
 import pkgutil
 import os.path
 
